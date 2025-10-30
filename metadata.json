@@ -1,0 +1,5 @@
+{
+  "name": "QualiSage AI - QDA Tool",
+  "description": "A modern Qualitative Data Analysis (QDA) tool powered by Gemini AI to automate coding, detect themes, and accelerate your research workflow. Add documents, highlight text to apply codes, and use AI to suggest codes and summarize findings.",
+  "requestFramePermissions": []
+}
